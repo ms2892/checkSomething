@@ -22,7 +22,7 @@
 ![Vaayu FM   Architecture (1)](https://github.com/atulmehra/GenerativeAI4Finance/assets/65443697/24e162dd-86ce-49d2-b8f3-fb49ad70bf88)
 
 # Interesting Glossary
-
+<!-- Added a comment to check something -->
 
 # AI Infra from BigTech
 
